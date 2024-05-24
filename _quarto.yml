@@ -7,7 +7,7 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: "Home"
       - cv.qmd
       - projects.qmd
     tools:
@@ -22,6 +22,7 @@ format:
     theme: 
       - cosmo
       - styles.scss
+    mainfont: Reddit+Sans
     toc: false
 
 editor: source
