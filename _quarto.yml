@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Hazel Gordon"
   navbar:
     left:
       - href: index.qmd
@@ -18,8 +18,10 @@ website:
 
 format:
   html:
-    theme: cerulean
-    toc: true
+    theme: 
+      - cosmo
+      - styles.scss
+    toc: false
 
 editor: source
 
