@@ -28,18 +28,17 @@ $code-color: $navy; // inline code text color
 
 /*-- scss:rules --*/
 
-h1, h2 {
-  letter-spacing: 3px;
-  font-weight: 800; 
-}
-
 .title {
-  color: gray;
-  text-align: center;
+  color: $gray;
+  text-align: left;
 }
 
 .center-text {
   text-align: center;
 }
 
+.center-large {
+  text-align: center;
+  font-size: 14px;
+}
 
