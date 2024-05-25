@@ -18,6 +18,20 @@
     "href": "cv.html",
     "title": "CV",
     "section": "",
-    "text": "This paragraph is orange.\n\n\nThis paragraph is centered.\n\n\nThis paragraph has no styling.\n\n\nThis level-2 header is centered"
+    "text": "Education\n\n\nResearch Experience\n\n\nConference Presentations\n\n\nDevelopment of Skills\n\n\nCommunication: Written\n\n\nCommunication: Verbal\n\n\nProblem Solving\n\n\nCollaboration\n\n\nStatistics"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "To live, love and learn. In this order. I like order."
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "About Me",
+    "section": "",
+    "text": "To live, love and learn. In this order. I like order."
   }
 ]

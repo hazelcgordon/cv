@@ -11,19 +11,20 @@ $gray: #64605f;
 $purple: #9158A2;
 $orange: #ad7237;
 $almond: #FFEBCD;
+$navy: #191970;
 
 // Base document colors
 $navbar-bg: $cream; // navbar
 $navbar-fg: $gray; // navbar foreground elements
-$navbar-hl: $lime-green; // highlight color when hovering 
+$navbar-hl: $navy; // highlight color when hovering 
 $body-bg: $light-green; // page background 
 $body-color: $gray; // page text 
 $footer-bg: $cream; // footer 
-$link-color: $purple; // hyperlinks 
+$link-color: $navy; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
-$code-color: $purple; // inline code text color
+$code-color: $navy; // inline code text color
 
 /*-- scss:rules --*/
 
@@ -39,10 +40,6 @@ h1, h2 {
 
 .center-text {
   text-align: center;
-}
-
-.orange-text {
-  color: $orange;
 }
 
 
