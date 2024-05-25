@@ -24,7 +24,7 @@ format:
     theme: 
       - cosmo
       - styles.scss
-    mainfont: Reddit+Sans
+    mainfont: Raleway
     toc: false
 
 editor: source

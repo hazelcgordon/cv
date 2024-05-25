@@ -1,7 +1,7 @@
 /*-- scss:defaults --*/
 
 // Import fonts
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Shippori+Mincho&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Raleway:ital,wght@0,100..900;1,100..900&family=Reddit+Sans:ital,wght@0,200..900;1,200..900&family=Shippori+Mincho&display=swap');
 
 // Colors
 $lime-green: #32CD32;
@@ -10,17 +10,19 @@ $cream: #FDFBF7;
 $gray: #64605f;
 $purple: #9158A2;
 $orange: #ad7237;
+$white: #FFFFFF;
 $almond: #FFEBCD;
 $navy: #191970;
+$olive-green: #808000;
 
 // Base document colors
-$navbar-bg: $cream; // navbar
-$navbar-fg: $gray; // navbar foreground elements
-$navbar-hl: $navy; // highlight color when hovering 
-$body-bg: $light-green; // page background 
+$navbar-bg: $olive-green; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $light-green; // highlight color when hovering 
+$body-bg: $white; // page background 
 $body-color: $gray; // page text 
-$footer-bg: $cream; // footer 
-$link-color: $navy; // hyperlinks 
+$footer-bg: $olive-green; // footer 
+$link-color: $light-green; // hyperlinks 
 
 // Inline code
 $code-bg: $cream; // inline code background color
