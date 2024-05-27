@@ -1,9 +1,11 @@
 ---
 title: "About Me"
+image: img/profile_cropped.png
 about:
   id: me
-  template: broadside
-  image: img/profile.png
+  template: trestles
+  image-shape: round
+  image-width: 20em
 ---
 
 :::{#me}
