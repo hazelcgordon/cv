@@ -8,20 +8,22 @@ $lime-green: #32CD32;
 $light-green: #D1D9CE;
 $cream: #FDFBF7;
 $gray: #64605f;
-$purple: #9158A2;
+$honeydew: #F0FFF0;
 $orange: #ad7237;
 $white: #FFFFFF;
 $almond: #FFEBCD;
 $navy: #191970;
 $olive-green: #808000;
+$dark-olive: #556B2F;
+$teal: #008B8B;
 
 // Base document colors
-$navbar-bg: $olive-green; // navbar
-$navbar-fg: $cream; // navbar foreground elements
-$navbar-hl: $light-green; // highlight color when hovering 
-$body-bg: $white; // page background 
+$navbar-bg: $cream; // navbar
+$navbar-fg: $gray; // navbar foreground elements
+$navbar-hl: $olive-green; // highlight color when hovering 
+$body-bg: $light-green; // page background 
 $body-color: $gray; // page text 
-$footer-bg: $olive-green; // footer 
+$footer-bg: $cream; // footer 
 $link-color: $light-green; // hyperlinks 
 
 // Inline code
